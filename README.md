@@ -13,7 +13,7 @@ The objective of this project is to build, evaluate, and deploy a machine learni
 * **Description:** This dataset contains customer-level information for a telecommunications company. It includes demographic data, account information (contract type, payment method, monthly charges), and the services each customer has signed up for. The goal is to predict which customers are likely to discontinue their service.
 
 ## c. Github Repository Link
-https://github.com/YOUR_GITHUB_USERNAME/Multi-Model-Classification-Engine
+[https://github.com/YOUR_GITHUB_USERNAME/Multi-Model-Classification-Engine](https://github.com/Purva-D-Shah/Multi-Model-Classification-Engine)
 
 ## d. Models used:
 
